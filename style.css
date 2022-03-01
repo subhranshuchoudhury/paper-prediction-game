@@ -23,11 +23,10 @@ h3{
 
 #display{
 	text-align: center;
+	position: fixed;
 	background-color: goldenrod;
-	display: table;
 	padding: 10px;
 	font-weight: 900;
-	position: fixed;
 	margin: 10px;
 	font-size: 19px;
 	border-radius: 20px;
