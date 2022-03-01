@@ -12,13 +12,7 @@ hr{
 	border-radius: 20px;
 }
 
-h1{
-	margin: 0px;
-	background-color: orangered;
-	padding: 8px;
-	font-size: 20px;
-	position: fixed;
-}
+
 
 h3{
 	background-color: whitesmoke;
@@ -28,9 +22,13 @@ h3{
 }
 
 #display{
+	text-align: center;
 	background-color: goldenrod;
 	display: table;
 	padding: 10px;
+	font-weight: 900;
+	position: fixed;
+	margin: 10px;
 	font-size: 19px;
 	border-radius: 20px;
 }
@@ -84,6 +82,7 @@ h3{
 #topic_name{
 	background-color: seagreen;
 	color: white;
+	margin-top: 50px;
 	padding: 20px;
 	width: 30%;
 	border-radius: 20px;
